@@ -1,4 +1,4 @@
-# portfolio-generator
+# Portfolio Generator
 
   ## Description
   Using simple command line prompts, this applicated generates an HTML and CSS portfolio using the users github info.
